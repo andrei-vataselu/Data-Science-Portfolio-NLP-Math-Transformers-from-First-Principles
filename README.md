@@ -41,12 +41,7 @@ ds-portfolio/
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This repo is personal, but feel free to fork or use parts for your own study plan. Pull requests or ideas are welcome via Issues.
 
----
-
-## 📜 License
-
-[MIT License](./LICENSE)

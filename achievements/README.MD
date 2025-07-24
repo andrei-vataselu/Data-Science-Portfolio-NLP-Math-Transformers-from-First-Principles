@@ -1,4 +1,4 @@
-# 🏅 Achievements @ Endava
+# 🏅 Achievements
 
 A log of personal milestones and contributions achieved during my data science journey at Endava. This includes internal competitions, training progress, and impact-driven project work.
 

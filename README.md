@@ -36,7 +36,7 @@ ds-portfolio/
 ## Projects
 
 - **Author Classification using Stylometric Features**
-- **Transformer-based Summarizer (BART / PEGASUS)**
+- **Transformer-based Summarizer**
 -  More coming soon...
 
 ---

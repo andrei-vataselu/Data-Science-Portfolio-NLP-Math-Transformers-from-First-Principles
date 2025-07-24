@@ -2,7 +2,7 @@
 
 ---
 
-> A structured data science portfolio focused on NLP, machine learning, and transformers. Includes hands-on notebooks, quizzes, math explanations, and real projects — from fundamentals to advanced models — all organized for learning, research, and future deployment.
+> A structured data science portfolio focused on NLP, machine learning, and transformers. Includes hands-on notebooks, math explanations — from fundamentals to advanced models — all organized for learning, research, and future deployment.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Active-blue)
 ![Progress](https://img.shields.io/badge/Status-Ongoing-success)
@@ -16,7 +16,6 @@ ds-portfolio/
 │
 ├── notebooks/ # All Jupyter notebooks
 ├── kaggle-competitions/ #my placements on each kaggle competition
-├── projects/ # End-to-end DS projects
 ├── notes/ # Markdown notes per topic
 ├── resources/ # Books, papers, datasets
 ├── achievements/ # All my achievements in this field
